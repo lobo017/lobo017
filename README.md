@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=600&lines=Hey+there,+I%27m+Ethan+Lobo👋;Building+things+that+matter+in+code+and+data" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=900&lines=Hey+there,+I%27m+Ethan+Lobo👋;Building+things+that+matter+in+code" alt="Typing SVG">
 </p>
+
 
 <h3 align="center">Applied Cognition & Neuroscience MS Student | Software + Analytics Hybrid</h3>
 
@@ -62,9 +63,10 @@ Structured data cleaning → analytic dashboards → automated reporting.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lobo017&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobo017&layout=compact&theme=radical" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lobo017&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lobo017&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
@@ -73,8 +75,8 @@ Structured data cleaning → analytic dashboards → automated reporting.
 Whether you’re building something interesting or just want to chat about backend systems, data engineering, or automation — drop a message.
 
 💬 Ethan  
-✉ ethan.email@domain.com  
-🔗 linkedin.com/in/ethan-lobo
+✉ ethan4lobo@gmail.com  
+🔗 [linkedin.com/in/ethan-lobo](https://www.linkedin.com/in/ethanlobo/)
 
 ---
 
