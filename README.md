@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=900&lines=Hey,+I%27m+Ethan+Lobo;Backend-Focused+Software+Engineer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1&center=true&width=900&lines=Hey,+I%27m+Ethan+Lobo;Data+Analytics/Backend-Focused+Software+Engineer" alt="Typing SVG">
 </p>
 
 <h3 align="center">MS in Applied Cognition & Neuroscience | Backend & ML Systems Builder</h3>
