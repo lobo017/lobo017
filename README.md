@@ -86,7 +86,7 @@ Implements a clean SDLC pipeline with API-based game logic, state management, an
 
 ## Contact
 
-If you're working on something serious in AI, health-tech, or backend systems, reach out.
+If you want to chat, please reach out.
 
 ethan4lobo@gmail.com  
 linkedin.com/in/ethanlobo
