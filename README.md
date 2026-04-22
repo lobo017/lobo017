@@ -1,101 +1,81 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1&center=true&width=900&lines=Hey,+I%27m+Ethan+Lobo;Data+Analytics/Backend-Focused+Software+Engineer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=900&lines=Hey,+I%27m+Ethan+Lobo;Applied+AI+%7C+Backend+Engineer" alt="Typing SVG">
 </p>
 
-<h3 align="center">MS in Applied Cognition & Neuroscience | Backend & ML Systems Builder</h3>
+<h3 align="center">MS Applied Cognition & Neuroscience • AI Systems • Backend Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ethanlobo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ethan4lobo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+## What I Do
+
+- Build applied AI systems that turn messy data into usable signals  
+- Work at the intersection of neuroscience, health data, and software  
+- Design backend-heavy systems with clean structure and real output  
+- Automate workflows that shouldn’t require human effort  
+
+I focus on clean architecture, fast iteration, and building things that actually get used.
+
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
-
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,postgres" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn"/>
+</p>
+
+### ML / AI
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/Transformers-FFB000?style=flat"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode" />
 </p>
 
 ---
 
-### 🧩 Frameworks & Libraries
+## Selected Work
 
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-</p>
+### Medical Image Classification (VesselMNIST3D)
+Built a 3D deep learning pipeline to classify aneurysm vs. healthy vessel segments from volumetric brain MRA scans.  
+Implemented a custom 3D ResNet-18 with Squeeze-and-Excitation attention to capture subtle vascular morphology in small, imbalanced datasets (~1.3k samples).
 
----
+### Sleep Latency Prediction
+Modeled the relationship between physiological stress and sleep latency using wearable data.  
+Engineered rolling biological baselines and Z-score features to capture deviation from personal norms, revealing non-linear stress thresholds missed by standard correlation methods.
 
-### 🗄️ Databases
+### Circadian Lens
+Developing a system to predict personalized sleep windows using historical sleep behavior, daily activity, and stress signals.  
+Combines constraint-based modeling with time-series feature engineering to dynamically shift recommended sleep timing based on intraday physiological load.
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-</p>
-
----
-
-### 🧠 Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge"/>
-</p>
+### Name That Tune
+Full-stack web app built from MVP to production, evolving from a React-only frontend to a backend-driven architecture (FastAPI/Flask).  
+Implements a clean SDLC pipeline with API-based game logic, state management, and deployment across Vercel + cloud backend.
 
 ---
 
-### ⚙️ Tools & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-</p>
-
----
-
-## 🧠 What I Build
-
-• Backend systems designed beyond coursework  
-• Machine learning models trained and evaluated on real datasets  
-• Automation tools used by real communities  
-• Data pipelines from ingestion → transformation → insight  
-
-I care about clean architecture, systems thinking, and measurable output.
-
----
-
-## 🚀 Flagship Work
-
-### 🤖 Discord Automation & Moderation Engine  
-Role management, spam filtering, analytics-driven moderation, automation pipelines.
-
-### 🧠 DistilBERT Ranking System  
-Fine-tuned transformer for pairwise preference learning with strong evaluation metrics.
-
-### 🌐 Flask Data Applications  
-Backend-powered web tools integrating analytics and user interaction.
-
-### 📊 Analytics & Reporting Pipelines  
-Structured ingestion → transformation → visualization → automated output.
-
----
-
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lobo017&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -104,9 +84,9 @@ Structured ingestion → transformation → visualization → automated output.
 
 ---
 
-## 📫 Let’s Connect
+## Contact
 
-If you're building something ambitious in backend, ML, or data systems, I’m interested.
+If you're working on something serious in AI, health-tech, or backend systems, reach out.
 
-✉ ethan4lobo@gmail.com  
-🔗 https://www.linkedin.com/in/ethanlobo/
+ethan4lobo@gmail.com  
+linkedin.com/in/ethanlobo
