@@ -69,9 +69,9 @@ Engineered rolling biological baselines and Z-score features to capture deviatio
 Developing a system to predict personalized sleep windows using historical sleep behavior, daily activity, and stress signals.  
 Combines constraint-based modeling with time-series feature engineering to dynamically shift recommended sleep timing based on intraday physiological load.
 
-### Name That Tune
-Full-stack web app built from MVP to production, evolving from a React-only frontend to a backend-driven architecture (FastAPI/Flask).  
-Implements a clean SDLC pipeline with API-based game logic, state management, and deployment across Vercel + cloud backend.
+### MetaCrawler
+Built a polyglot, microservices-based web scraping and analysis platform designed for scalable data collection and real-time insight generation.  
+Orchestrates Go-based concurrent scraping, Python NLP/ML pipelines, and Node.js browser automation behind a unified API layer, with a hybrid MongoDB/PostgreSQL data architecture.
 
 ---
 
